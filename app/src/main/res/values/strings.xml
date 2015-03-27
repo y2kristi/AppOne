@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppOne</string>
+
+    <string name="hello_world">To See The Time Choose An Option From Settings</string>
+    <string name="est">EST</string>
+    <string name="ist">IST</string>
+    <string name="pst">PST</string>
+
+</resources>
